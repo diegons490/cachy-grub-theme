@@ -14,4 +14,4 @@ $ sudo sh ./install.sh
 $ sudo sh ./uninstall.sh
 ```
 # Screenshot
-![screenshot](/preview.jpg?raw=true)
+![screenshot](/preview.png?raw=true)
